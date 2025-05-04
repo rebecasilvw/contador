@@ -1,2 +1,2 @@
 # contador
-Contador iterativo com JavaScript
+Contador interativo com JavaScript
